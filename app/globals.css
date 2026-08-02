@@ -68,3 +68,17 @@ select {
 .focus-ring:focus-visible {
   box-shadow: 0 0 0 3px rgb(29 106 79 / 0.18);
 }
+
+.landing-cta-button {
+  border-color: white;
+  background-color: white;
+  color: var(--foreground);
+  transition: all 0.5s ease-in-out;
+}
+
+.landing-cta-button:hover {
+  border-color: var(--brand);
+  background-color: var(--brand);
+  color: white;
+  transition: all 0.5s ease-in-out;
+}

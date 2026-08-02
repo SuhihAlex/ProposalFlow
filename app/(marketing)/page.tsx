@@ -54,7 +54,17 @@ export default function LandingPage() {
       <section className="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8 lg:py-28">
         <div className="overflow-hidden rounded-[32px] bg-[var(--foreground)] px-6 py-14 text-white sm:px-12 lg:flex lg:items-center lg:justify-between lg:px-16">
           <div className="max-w-2xl"><p className="text-sm font-semibold text-[#add7c2]">Start with a complete demo workspace</p><h2 className="font-display mt-4 text-4xl leading-tight sm:text-5xl">Your next proposal can look finished before the meeting ends.</h2></div>
-          <Button asChild className="mt-8 bg-white text-[var(--foreground)] hover:bg-[#eef1eb] lg:mt-0" size="lg"><Link href="/register">Create your workspace <ArrowRight className="size-4" /></Link></Button>
+          <Button
+            asChild
+            className="landing-cta-button mt-8 lg:mt-0"
+            size="lg"
+            variant="secondary"
+          >
+            <Link href="/register">
+              Create your workspace
+              <ArrowRight className="size-4" />
+            </Link>
+          </Button>
         </div>
       </section>
     </main>
