@@ -6,7 +6,7 @@ ProposalFlow is a full-stack SaaS application for creating, sending and tracking
 
 The product is designed for freelancers, agencies and service companies that need a structured way to manage clients, reusable services, proposal pricing and client decisions without relying on disconnected documents, spreadsheets and email threads.
 
-**Live product:**  
+**Live product:**
 https://proposalflow-six.vercel.app
 
 ---
