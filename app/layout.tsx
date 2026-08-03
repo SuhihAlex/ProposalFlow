@@ -5,7 +5,7 @@ import "./globals.css";
 const siteUrl = "https://proposalflow-six.vercel.app";
 
 const description =
-  "Create, send and track professional commercial proposals from one focused workspace.";
+  "Create, send and track professional commercial proposals, manage clients and services, calculate pricing, and collect client decisions from one focused workspace.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
