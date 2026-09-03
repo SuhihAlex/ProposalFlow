@@ -31,10 +31,6 @@ Row Level Security · Storage · Server Actions
 
 ![ProposalFlow dashboard](./portfolio/screenshots/02-dashboard.png)
 
-## Live Demo
-
-https://proposalflow-six.vercel.app
-
 ## Product Overview
 
 ProposalFlow replaces disconnected documents, spreadsheets and email threads with one structured proposal workflow:
