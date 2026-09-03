@@ -1,8 +1,35 @@
 # ProposalFlow
 
-ProposalFlow is a full-stack SaaS application for creating, sending and tracking professional commercial proposals.
+**Commercial proposal web application built with Next.js, React and TypeScript.**
 
-The application allows freelancers, agencies and service businesses to manage clients and services, calculate proposal pricing, share public proposal links and receive final client decisions.
+ProposalFlow is a responsive SaaS-style application for creating,
+sharing and tracking professional commercial proposals.
+
+[Live Demo](https://proposalflow-six.vercel.app)
+
+## Frontend Highlights
+
+The project includes:
+
+- responsive SaaS dashboard interfaces
+- reusable React UI components
+- authenticated application layouts
+- client and service management interfaces
+- proposal creation and editing flows
+- dynamic pricing and discount UI
+- proposal status filtering
+- public client-facing proposal pages
+- form validation and application states
+- responsive desktop and mobile layouts
+- data-driven dashboard metrics
+- client/server interaction with Next.js
+
+**Frontend stack:** Next.js · React · TypeScript · Tailwind CSS
+
+**Additional project experience:** Supabase · PostgreSQL · Auth ·
+Row Level Security · Storage · Server Actions
+
+![ProposalFlow dashboard](./portfolio/screenshots/02-dashboard.png)
 
 ## Live Demo
 
