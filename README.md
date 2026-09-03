@@ -97,6 +97,8 @@ ProposalFlow replaces disconnected documents, spreadsheets and email threads wit
 * Draft, sent, viewed, accepted, rejected and expired statuses
 * Filter proposals by status
 
+![Proposal editor](./portfolio/screenshots/04-proposal-editor.png)
+
 ### Public Proposal Experience
 
 * Secure public proposal token
@@ -107,6 +109,8 @@ ProposalFlow replaces disconnected documents, spreadsheets and email threads wit
 * Optional client comment
 * Final responses protected against duplicate submission
 * Public routes available without authentication
+
+![Public proposal](./portfolio/screenshots/05-public-proposal.png)
 
 ### Dashboard
 
@@ -344,4 +348,11 @@ Possible post-MVP additions:
 
 **MVP released and available in production.**
 
-Developed as a full-stack SaaS portfolio project by KINETIC Studio.
+## Author
+
+Built by **Alexandr Suhih** as a portfolio web application.
+
+Frontend development is my primary professional focus.
+
+[GitHub](https://github.com/SuhihAlex) ·
+[LinkedIn](https://www.linkedin.com/in/alexandr-suhih-1a4821289/)
